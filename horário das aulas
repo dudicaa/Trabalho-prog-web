@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" >
+        <title> Horário das Aulas </title>
+    </head>
+    <body>
+        <table border="2">
+            <caption>Horário das Aulas</caption>
+            <tr>
+                <th>Hora</th>
+                <th>Segunda</th>
+                <th>Terça</th>    
+                <th>Quarta</th>   
+                <th>Quinta</th>  
+                <th>Sexta</th>
+            </tr>
+            <tr>
+                <td>08:00 a 08:50</td>
+                <td>Língua Portuguesa <br>e Literatura V</td>
+                <td>Química IV</td>
+                <td>Programação para<br>Dispositivos Móveis I</td>
+                <td>História III</td>
+                <td>Física V</td>
+            </tr>
+            <tr>
+                <td>08:50 a 09:40</td>
+                <td>Língua Portuguesa<br> e Literatura V</td>
+                <td>Sociologia I</td>
+                <td>Engenharia de Software II</td>
+                <td>História III</td>
+                <td>Física V</td>
+
+            </tr>
+            <tr>
+                <td>09:40 a 10:00</td>
+                <th colspan="5">Intervalo</th>
+            </tr>
+            <tr>
+                <td>10:00 a 10:50</td>
+                <td>Língua Estrangeira-<br>Inglês III</td>
+                <td>Sociologia I</td>
+                <td>Engenharia de Software II</td>
+                <td>Química IV</td>
+                <td>Programação para<br> Dispositivos Móveis I</td>
+            </tr>
+            <tr>
+                <td>10:50 a 11:40</td>
+                <td>Língua Estrangeira-<br>Inglês III</td>
+                <td>Programação Web I</td>
+                <td>Geografia III</td>
+                <td>Filosofia II</td>
+                <td>Programação para<br> Dispositivos Móveis I</td>
+            </tr>
+            <tr>
+                <td>11:40 a 12:30</td>
+                <td>Matemática Financeira <br>e Estatística</td>
+                <td>Programação Web I</td>
+                <td>Geografia III</td>
+                <td>Filosofia II</td>
+                <td>Programação para <br>Dispositivos Móveis I</td>
+            </tr>
+            <tr>
+                <td>12:30</td>
+                <th colspan="5"> Saída</th>
+            </tr>
+        </table>
+
+    </body>
