@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+   
+       
+    <head>
+        <meta charset="UTF-8" >
+        <title>informações pessoais do aluno</title>
+        <meta name="author" content="Maria Eduarda">
+        </head>
+        <body>
+            <h1>Informações Pessoais</h1>
+            <a href="colegios.html">colégios onde estudei</a>
+        <h2 style="background-color: blueviolet;">Maria Eduarda Marangon</h2>
+            <ul>
+            <li><b>Idade:</b> 17 anos</li>
+            <li><b>Cidade:</b> Poços de Caldas</li>
+            <li><b>Estado:</b> Minas Gerais</li>
+            <li><b>Endereço:</b> Condomínio Santa Clara- Zona Rural, Estrada Poços-Palmeiral Km 73</li>
+            <li><b>Curso:</b> Técnico em Informática Integrado ao Ensino Médio</li>
+            <li><b>Período:</b> 5</li>
+            <li><b>Contato:</b></li>
+                <ul>
+                <li>Telefone: (35) 98811-7449</li>
+                <li>E-mail: maria.marangon@alunos.ifsuldeminas.edu.br</li>
+                </ul>
+            </ul>
+            
+        </p>
+        <img src="./img/minha-foto.jpeg" alt="imagem da aluna Maria Eduarda" width="240px" height="400px"> 
+    </body>
