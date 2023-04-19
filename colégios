@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta charset="UTF-8" >
+    <title>lista dos colégios</title>
+   </head>
+    <body>
+        <h1>Colégios Onde Estudei</h1>
+        <ol>
+            <li>Ensino Superior</li>
+            <ul>
+                <li>não cursado</li>
+            </ul>
+            <li>Curso Técnico</li>
+            <ul>
+                <li>Técnico em Informática</li>
+            </ul>
+            <li>Ensino Médio</li>
+            <ul>
+                <li>Técnico Integrado pelo <a href="https://ifsuldeminas.edu.br" target="_blank">Instituto Federal de Educação, Ciência  
+                e Tecnologia do Sul de Minas Gerais </a>- Campus Poços de Caldas </li>
+            </ul>
+            <li>Ensino Fundamental</li>
+            <ul>
+                <li>Escola Municipal João Pinheiro</li>
+                <li>Escola Municipal Sérgio de Freitas Pacheco</li>
+                <li>Escola Municipal Dona Lúcia Sacoman Junqueira</li>
+            </ul>
+
+        </ol> 
+
+    </body>
