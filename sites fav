@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+   
+       
+    <head>
+        <meta charset="UTF-8" >
+        <title>sites favoritos</title>
+    </head>
+    <body>
+        <h1>Meus sites favoritos</h1>
+        <li><a href="http://z-lib.is">Zlibrary</a></li>
+        <li><a href="http://www.instagram.com">Instagram</li>
+        <li><a href="http://br.pinterest.com">Pinterest</a></li>
+        <li><a href="http://br.shein.com">Shein</a></li>
+        <li><a href="http:/www.spotify.com">Spotify</a></li>
+        <li><a href="http://twitter.com">Twitter</a></li>
+
+
+    </body>
+
+   
