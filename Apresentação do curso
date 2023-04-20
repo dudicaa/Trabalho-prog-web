@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" >
+        <title> Curso Informática</title>
+    </head>
+    <body>
+        <a href="index.html">minhas informações</a><br>
+        <a href="colegios.html">colégios onde estudei</a><br>
+        <a href="sites_favoritos.html">sites favoritos</a><br>
+        <a href="horario_de_aulas.html">horário das minhas aulas</a><br>
+        <a href="instituto_federal.html">história do IF</a><br>
+        <a href="curso_tecnico_integrado_informatica.html">apresentação do curso de informática</a><br>
+        <a href="formacao_academica.html">atividades extras no IF</a><br>
+        <a href="atividades_culturais.html">meus hobbys</a><br>
+        <h1>Apresentação do Curso Técnico Informática Integrado ao Ensino Médio</h1>
+        <p>O Curso Técnico em Informática Integrado ao Ensino Médio, ofertado pelo Instituto
+            Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais, Campus Poços de
+            Caldas, está estruturado de forma a contemplar as competências gerais do Eixo
+            Tecnológico Informação e Comunicação, conforme o Catálogo Nacional de Cursos
+            Técnicos do Ministério da Educação (CNE/CEB no 1/2014).</p>
+        <p> O curso busca viabilizar o projeto de vida profissional do estudante conforme os
+            objetivos da Instituição, e se propõe a formar um profissional que possa atender às
+            necessidades do mundo do trabalho. A base de conhecimentos científicos e
+            tecnológicos do curso é composta por educação básica, diversificada e educação
+            profissional, perfazendo uma carga horária total de 3.200 horas, com duração de 3 anos
+            em período integral.</p>
+        <p> A organização do curso visa ao acompanhamento das mudanças e avanços
+            tecnológicos, promovendo a inter e a transdisciplinaridade, imprescindíveis para a
+            compreensão do ambiente e de suas alterações, bem como promover a aplicação dos
+            conhecimentos através de atividades práticas.</p>
+        <p> Como atividades práticas, poderão ser efetuadas visitas técnicas às empresas;
+            participação em projetos junto a(s) empresa(s) junior(es) do campus, auxiliando
+            atividades de pesquisa e extensão promovendo a interdisciplinaridade e o trabalho em
+            equipe. Nessa direção cabe destacar que as práticas profissionais que irão proporcionar
+            ao aluno a aplicação e ampliação dos conhecimentos adquiridos ao longo do curso, bem
+            como a experiência real no mundo do trabalho.<br>
+            No quadro a seguir são apresentadas informações básicas sobre o curso:</p>
+
+            <table border="1">
+                <caption>Informações sobre o curso:</caption>
+                <tr>
+                    <td>Nome do Curso</td>
+                    <td>Técnico em Informática Integrado ao Ensino Médio</td>
+                </tr>
+                <tr>
+                    <td>Modalidade</td>
+                    <td>Presencial<br>
+                    (16,7% da Carga Horária Diária à Distância)</td>
+                </tr>
+                <tr>
+                    <td>Eixo Tecnológico</td>
+                    <td>Informação e Comunicação</td>
+                </tr>
+                <tr>
+                    <td>Local de funcionamento</td>
+                    <td>Instituto Federal de Educação, Ciência e Técnologia do<br> Sul 
+                        de Minas Gerais-IFSULDEMINAS-Campus Poços<br> de Caldas</td>
+                </tr>
+                <tr>
+                    <td>Ano de implantação</td>
+                    <td>2013</td>
+                </tr>
+                <tr>
+                    <td>Habilitação</td>
+                    <td>Técnico em Informática</td>
+                </tr>
+                <tr>
+                    <td>Número de vagas</td>
+                    <td>35</td>
+                </tr>
+                <tr>
+                    <td>Requisitos e forma de ingresso</td>
+                    <td>Ter concluído o ensino fundamental e ter sido aprovado<br>
+                        no processo seletivo institucional-vestibular
+                    </td>
+                </tr>
+                <tr>
+                    <td>Duração do Curso</td>
+                    <td>3 anos</td>
+                </tr>
+                <tr>
+                    <td>Turno</td>
+                    <td>Integral</td>
+                </tr>
+                <tr>
+                    <td>Periodicidade de Oferta</td>
+                    <td>Anual</td>
+                </tr>
+                <tr>
+                    <td>Carga Horária Total</td>
+                    <td>3.200h</td>
+                </tr>
+            </table>
+            </body>
