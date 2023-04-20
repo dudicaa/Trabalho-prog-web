@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta charset="UTF-8" >
+    <title>Meus Hobbys</title>
+    </head>
+    <body>
+        <a href="index.html">minhas informações</a><br>
+        <a href="colegios.html">colégios onde estudei</a><br>
+        <a href="sites_favoritos.html">sites favoritos</a><br>
+        <a href="horario_de_aulas.html">horário das minhas aulas</a><br>
+        <a href="instituto_federal.html">história do IF</a><br>
+        <a href="curso_tecnico_integrado_informatica.html">apresentação do curso de informática</a><br>
+        <a href="formacao_academica.html">atividades extras no IF</a><br>
+        <a href="atividades_culturais.html">meus hobbys</a><br>
+        <h1>Meus Hobbys</h1>
+        <li>ler</li>
+        <li>ouvir música</li>
+        <li>cantar</li>
+        <li>jogar cs</li>
+        <li>dançar hip hop</li>
+        <li>fazer aulas de teatro</li>
+    </body>
