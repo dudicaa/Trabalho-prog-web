@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+    <meta charset="UTF-8" >
+    <title>Atividades extras no IF</title>
+    </head>
+    <body>
+        <a href="index.html">minhas informações</a><br>
+        <a href="colegios.html">colégios onde estudei</a><br>
+        <a href="sites_favoritos.html">sites favoritos</a><br>
+        <a href="horario_de_aulas.html">horário das minhas aulas</a><br>
+        <a href="instituto_federal.html">história do IF</a><br>
+        <a href="curso_tecnico_integrado_informatica.html">apresentação do curso de informática</a><br>
+        <a href="formacao_academica.html">atividades extras no IF</a><br>
+        <a href="atividades_culturais.html">meus hobbys</a><br>
+        <h1>Atividades extras no IF</h1>
+        <li>Treinos de volêi duas vezes na semana</li>
+        <li>JIFS 2022</li>
+        <li>Projeto de Extensão- arrecadação e doação de roupas </li>
+    </body>
